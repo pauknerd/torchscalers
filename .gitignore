@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# local tool/editor state
+.pytest_cache/
+.ruff_cache/
+.vscode/
+
+# checkpoints from examples
+checkpoints/
+
+# Sphinx build output
+docs/_build/
+
+# test coverage artifacts
+.coverage
+.coverage.*
+htmlcov/
