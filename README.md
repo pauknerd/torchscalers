@@ -1,6 +1,9 @@
 # torchscalers
 
+[![CI](https://github.com/pauknerd/torchscalers/actions/workflows/ci.yml/badge.svg)](https://github.com/pauknerd/torchscalers/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/pauknerd/torchscalers/graph/badge.svg)](https://codecov.io/gh/pauknerd/torchscalers)
+[![PyPI](https://img.shields.io/pypi/v/torchscalers)](https://pypi.org/project/torchscalers/)
+[![Docs](https://img.shields.io/badge/docs-github%20pages-blue)](https://pauknerd.github.io/torchscalers)
 
 A simple collection of scalers for PyTorch pipelines.
 
